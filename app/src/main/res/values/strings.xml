@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Group19_HW06</string>
+    <string name="action_home">Home</string>
+    <string name="action_instructors">Instructors</string>
+    <string name="action_add_instructors">Add Instructor</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_exit">Exit</string>
+
+    <string-array name="semester_array">
+        <item>Fall</item>
+        <item>Winter</item>
+        <item>Summer</item>
+    </string-array>
+
+    <string-array name="period_array">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+
+    <string-array name="days_array">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yourcourseslabel">Your courses:</string>
+
+</resources>

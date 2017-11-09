@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu  xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Home -->
+    <item android:id="@+id/action_home"
+        android:title="@string/action_home"
+        android:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_instructors"
+        android:title="@string/action_instructors"
+        android:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_add_instructor"
+        android:title="@string/action_add_instructors"
+        android:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_logout"
+        android:title="@string/action_logout"
+        android:showAsAction="ifRoom" />
+
+
+    <!-- Quit -->
+    <item android:id="@+id/action_exit"
+        android:title="@string/action_exit"
+        android:showAsAction="ifRoom"/>
+
+
+</menu>
+
+
